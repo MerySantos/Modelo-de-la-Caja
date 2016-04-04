@@ -1,0 +1,20 @@
+#adentro{
+	border: 2px dashed green;
+	background-color: white;
+	height: 20px;
+	text-align: center;
+
+}
+
+#afuera{
+ border: 5px solid violet;
+ background-color:  #ffccb3;
+ padding: 20px 15px 35px 120px;
+ margin: auto;	
+ width: 500px;
+ height:  60px;
+}	
+
+body{
+
+}
